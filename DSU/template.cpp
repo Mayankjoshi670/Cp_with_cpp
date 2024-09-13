@@ -65,3 +65,12 @@ cout<< connected_cnt ;
 
 
 // test case 
+
+// 5
+// 3
+// 1 2
+// 3 4
+// 4 5
+
+// output 
+// 2 
